@@ -1,0 +1,26 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.view-controls {
+    margin: 20px 0;
+}
+
+.rate-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.rate-table th,
+.rate-table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+#chartContainer {
+    height: 400px;
+    margin: 20px 0;
+}
