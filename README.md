@@ -14,4 +14,4 @@ A web-based currency exchange rate tracker that displays real-time exchange rate
   - New Taiwan Dollar (TWD)
 
 ## Demo
-You can view the live demo here: []
+You can view the live demo [here](https://codeasobi.github.io/AI-currency/)
